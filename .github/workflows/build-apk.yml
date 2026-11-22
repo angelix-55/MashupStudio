@@ -4,7 +4,7 @@ name: Build Mashup Studio APK
 on:
   workflow_dispatch:
   push:
-    branches: [ principale ]
+    branches: [ maim ]
 
 permissions:
   contents: read
